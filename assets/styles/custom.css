@@ -1,0 +1,16 @@
+/**
+ * LunarPhase-Doc
+ * 
+ * @author Eridani78
+ * @version 1.0.0
+ * @date 2025 10 03
+ * 
+ * Description: Custom CSS
+ * 
+ */
+
+
+:root {
+    --color_button: rgba(224, 255, 255, 1.0); /* LightCyan */
+    --color_button_hover: rgba(255, 0, 0, 1.0); /* LightCyan */
+}
