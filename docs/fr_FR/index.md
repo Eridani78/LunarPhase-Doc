@@ -5,9 +5,10 @@
 
 | Plugin             | Version applicable |
 | :----------------: | :----------------: |
-| _LunarPhase_       | _1.0.0_            |
+| _LunarPhase_       | _1.0.1_            |
 
 
+_Released 2025 1003_
 _Updated 2025 1003_
 
 
