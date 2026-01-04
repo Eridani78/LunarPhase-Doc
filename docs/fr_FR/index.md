@@ -1,15 +1,14 @@
 # Plugins **LunarPhase**
-<img src="/assets/images/LunarPhase-Image.png" alt="" style="height: 20%; width:20%;"/> &nbsp; &nbsp;
+<img src="../assets/images/LunarPhase-Image.png" alt="" style="height: 20%; width:20%;"/> &nbsp; &nbsp;
 
-<img src="/SomfyUnified-Doc/assets/images/LunarPhase-Image.png" alt="LunarPhase logo" style="height: 20%; width:20%;"/> &nbsp; &nbsp;
 
 | Plugin             | Version applicable |
 | :----------------: | :----------------: |
-| _LunarPhase_       | _1.0.1_            |
+| _LunarPhase_       | _1.1.0_            |
 
 
 _Released 2025 1003_
-_Updated 2025 1003_
+_Updated 2026 0104_
 
 
 ## Presentation du plugin LunarPhase
