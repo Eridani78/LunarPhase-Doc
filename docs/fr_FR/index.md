@@ -1,5 +1,5 @@
 # Plugins **LunarPhase**
-<img src="../assets/images/LunarPhase-Image.png" alt="" style="height: 20%; width:20%;"/> &nbsp; &nbsp;
+<img src="../../assets/images/LunarPhase-Image.png" alt="" style="height: 20%; width:20%;"/> &nbsp; &nbsp;
 
 
 | Plugin             | Version applicable |
