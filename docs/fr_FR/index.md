@@ -8,7 +8,7 @@
 
 
 _Released 2025 1003_
-_Updated 2026 0104_
+_Updated 2026 0106_
 
 
 ## Presentation du plugin LunarPhase
