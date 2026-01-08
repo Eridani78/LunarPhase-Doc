@@ -4,11 +4,11 @@
 
 | Plugin             | Version applicable |
 | :----------------: | :----------------: |
-| _LunarPhase_       | _1.1.0_            |
+| _LunarPhase_       | _1.1.1_            |
 
 
 _Released 2025 1003_
-_Updated 2026 0106_
+_Updated 2026 0108_
 
 
 ## Presentation du plugin LunarPhase
